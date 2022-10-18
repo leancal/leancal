@@ -1,5 +1,5 @@
 ### Hi there 👋
-![](https://raw.githubusercontent.com/rafnixg/rafnixg/master/rafnix_header.jpeg)
+![](https://user-images.githubusercontent.com/105459802/196510158-c0b4b901-f04a-4736-bd4d-17d66c9bc8eb.png)
 <!--
 **leancal/leancal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,36 +14,33 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Angel Jaime
+
 
 <h2 align="center">About me</h2>
 
 ```golang
-package main
 
-import (
-	"fmt"
-)
-
-type Bio map[string]string
-
-func main() {
-	for k, v := range GetBio() {
-		fmt.Printf("%+v: %+v\n", k, v)
-	}
-}
-
-func GetBio() Bio {
-	return Bio{
-		"- ⚡ Quick bio:":                    "A kind of metalHead-melomaniac-gearAddict-amateurMusician-traveler-foodLover-gamer-coder-programmer-catLover-sportsAficionado hybrid",
-		"- 🔭 I’m currently working on":      "Tredicom as a Senior Software Developer --- UAdeC as a Part Time Teacher",
-		"- 🌱 I’m currently learning":        "Golang, MongoDB, RabbitMQ, K8s, GCP (Tech stack from my company) --- Sharpening my Front End Skills for the MERN stack (Personal goal)",
-		"- 👯 I’m looking to collaborate on": "Python, Golang and Docker related projects",
-		"- 🤔 I’m looking for help with":     "Anything related to what I am currently learning 😅",
-		"- 💬 Ask me about":                  "Python, PHP, Laravel, SQL, Software Design & Architecture, Web-Dev and SEO",
-		"- 📫 How to reach me:":              "https://github.com/AnhellO#you-can-reach-me-at-alien",
-	}
-}
+const anmol = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "Typescript", "Python", "Java"],
+    askMeAbout: ["web dev", "tech", "app dev"],
+    technologies: {
+        frontEnd: {
+            js: ["Vue", "Angular", "TypeScript"],
+            css: ["Tailwind", "bootstrap"]
+        },
+        backEnd: {
+	    JAVA: ["SpringBoot"]
+            js: ["node"],
+            python: ["flask"]
+        },
+        
+        databases: ["H2", "MySql", "PostgreSQL"],
+        
+    },
+    
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
 ```
 
 <h2 align="center">You can reach me at :alien:</h2>

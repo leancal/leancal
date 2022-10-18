@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![](https://raw.githubusercontent.com/rafnixg/rafnixg/master/rafnix_header.jpeg)
 <!--
 **leancal/leancal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

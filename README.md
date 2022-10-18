@@ -75,7 +75,55 @@ const anmol = {
   <a href="https://stackshare.io/leancal/my-personal-stack">
     <img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat" alt="leancal :: StackShare" />
   </a>
+	<table>
+  <tbody>
+    <tr valign="top">
+      <td width="16%" align="center">
+        <span>JS</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
+      </td>
+      <td width="16%" align="center">
+        <span>Angular</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/angular.svg">
+      </td>
+      <td width="16%" align="center">
+        <span>𝗝𝗮𝘃𝗮</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
+      </td>
+      <td width="16%" align="center">
+        <span>𝗣𝘆𝘁𝗵𝗼𝗻</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
+      </td>
+	<td width="16%" align="center">
+        <span>TypeScript</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/typescript.svg">
+      </td>
+	    </td>
+	<td width="16%" align="center">
+        <span>Threejs</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/threejs.svg">
+      </td>
+    </tr>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span>𝗦𝘂𝗯𝗹𝗶𝗺𝗲 𝗧𝗲𝘅𝘁 𝟯</span><br><br><br>
+        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>𝗚𝗶𝘁</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>𝗩𝗶𝘀𝘂𝗮𝗹 𝗦𝘁𝘂𝗱𝗶𝗼 𝗖𝗼𝗱𝗲</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
+      </td>
+    </tr>
+  </tbody>
+</table>
 </p>
+
+
+
 
 <h2 align="center">Github stats :bar_chart:</h2>
 
@@ -88,7 +136,7 @@ const anmol = {
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=leancal&show_icons=true&theme=synthwave" alt="leancal :: Profile Stats" /></p>
 
-<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
+<p align="center"><img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"></p>
 
 
 ---

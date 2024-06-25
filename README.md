@@ -22,17 +22,16 @@ Here are some ideas to get you started:
 
 const anmol = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Typescript", "Python", "Java"],
+    code: ["Javascript", "Typescript", "React", "Java"],
     askMeAbout: ["web dev", "tech", "app dev"],
     technologies: {
         frontEnd: {
-            js: ["Vue", "Angular", "TypeScript"],
+            js: ["React", "Angular", "TypeScript"],
             css: ["Tailwind", "bootstrap"]
         },
         backEnd: {
-	    JAVA: ["SpringBoot"]
+	    JAVA: ["SpringBoot", "Quarkus"]
             js: ["node"],
-            python: ["flask"]
         },
         
         databases: ["H2", "MySql", "PostgreSQL"],
